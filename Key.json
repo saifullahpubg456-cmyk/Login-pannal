@@ -6,6 +6,13 @@
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
+    {
+    "id": "4af1b702eacff18e",
+    "username": "SAIFSALER",
+    "password": "00000",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
