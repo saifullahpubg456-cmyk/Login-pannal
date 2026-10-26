@@ -1,9 +1,10 @@
 [
-  {
-    "id": "4af1b702eacff18e",
-    "username": "SAIFSALER",
-    "password": "00000",
-    "expiresAt": "2031-10-21",
-    "allowOffline": true
-  }
+    {
+        "id": "4af1b702eacff18e",
+        "username": "Hello",
+        "password": "Hello",
+        "expiresAt": "2026-10-29",
+        "allowOffline": true,
+        "isMaster": true
+    }
 ]
