@@ -4,6 +4,6 @@
     "username": "SAIFSALER",
     "password": "00000",
     "expiresAt": "2030-12-31",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
