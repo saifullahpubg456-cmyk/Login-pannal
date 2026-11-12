@@ -12,12 +12,5 @@
     "password": "00000",
     "expiresAt": "2031-10-27",
     "allowOffline": true
-  },
-  {
-    "id": "c41a4d91aca18c65",
-    "username": "SAIFSALER",
-    "password": "00000",
-    "expiresAt": "2031-11-07",
-    "allowOffline": true
   }
 ]
