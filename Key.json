@@ -12,5 +12,12 @@
     "password": "00000",
     "expiresAt": "2026-12-26",
     "allowOffline": true
+  },
+  {
+    "id": "5ffd411e66e1a90f",
+    "username": "SAIFSALER01",
+    "password": "00000",
+    "expiresAt": "2031-11-26",
+    "allowOffline": true
   }
 ]
